@@ -1,0 +1,13 @@
+{
+	"mcpServers": {
+		"my-mcp-server-0f027e8a": {
+			"type": "stdio",
+			"command": "dotnet",
+			"args": [
+				"run",
+				"--project",
+				"MyMcpServer"
+			]
+		}
+	}
+}
